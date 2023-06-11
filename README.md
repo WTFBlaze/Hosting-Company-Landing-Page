@@ -6,3 +6,7 @@
  If you are an experienced web developer and want to help me improve this repository feel free to submit a push request.
  
  THIS PROJECT IS INCOMPLETE!
+
+# Credits
+- Bootstrap
+- Font Awesome
